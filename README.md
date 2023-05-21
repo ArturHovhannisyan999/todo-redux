@@ -1,0 +1,5 @@
+![image](https://github.com/ArturHovhannisyan999/todo-redux/assets/126008343/6a05b65c-d4d1-44fe-8773-3b87558565dc)
+![image](https://github.com/ArturHovhannisyan999/todo-redux/assets/126008343/90e6c51a-95a7-4023-9345-268fd74fa0a3)
+![image](https://github.com/ArturHovhannisyan999/todo-redux/assets/126008343/2debce2e-f6d4-49ce-a100-28eadec072ab)
+![image](https://github.com/ArturHovhannisyan999/todo-redux/assets/126008343/88e3ca6c-2fe8-43d5-9e4b-21ee2e1d181c)
+![image](https://github.com/ArturHovhannisyan999/todo-redux/assets/126008343/7e8cde27-b138-4502-b821-ad3e5f2a82dd)
