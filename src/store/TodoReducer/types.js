@@ -1,0 +1,6 @@
+export const Types = {
+    ADD_TODO: "ADD_TODO",
+    REMOVE_TODO: "REMOVE_TODO",
+    EDIT_TODO: "EDIT_TODO",
+    SET_CURRENT_TODOS: "SET_CURRENT_TODOS",
+}

@@ -1,0 +1,44 @@
+.todo-form {
+    width: 600px;
+    min-height: 300px;
+    padding: 15px;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    border: 3px solid white;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: purple;
+}
+
+.todo-form-inputs {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.todo-form-inputs input{
+    width: 180px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.todo-form-inputs button {
+    width: 100px;
+    background-color: white;
+    color: blueviolet;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid blueviolet;
+}
+
+.todo-form-inputs button:hover {
+    background-color: blueviolet;
+    color: white;
+    border: 2px solid white;
+}
